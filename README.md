@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+
+
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abizrh&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abizrh&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abizrh&layout=compact)](https://github.com/Abizrh/github-readme-stats)
 [![bijhoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bijhoo)](https://github.com/Abizrh/github-readme-stats)
