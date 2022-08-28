@@ -19,4 +19,10 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![Abizrh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abizrh&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abizrh&layout=compact)](https://github.com/Abizrh/github-readme-stats)
-[![bijhoo's wakatime stats](https://github-readme-stats.vercel.app/13e58499-df50-420b-8e11-9b23539db1f7/wakatime?username=bijhoo)](https://github.com/Abizrh/github-readme-stats)
+[![bijhoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bijhoo)](https://github.com/Abizrh/github-readme-stats)
+
+
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
