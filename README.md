@@ -22,7 +22,4 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 [![bijhoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bijhoo)](https://github.com/Abizrh/github-readme-stats)
 
 
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+
