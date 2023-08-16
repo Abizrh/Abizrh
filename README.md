@@ -1,7 +1,7 @@
 ## <h1 align="center">Hi there, I'm Abi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <p align="center">
 <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1500&background=6DFF2B00&center=true&vCenter=true&width=435&lines=他家好;Welcome+to+my+Profile!;I'm+Tech+enthusiast;Enjoy+to+explore+new+things;Interested+in+web+developer;Follow+me+for+more!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1500&background=6DFF2B00&center=true&vCenter=true&width=435&lines=他家好;Welcome+to+my+Profile!;I'm+Tech+enthusiast;Enjoy+to+explore+new+things;Interested+in+web+developer;Follow+me+for+more!" alt="Typing SVG" />
 </a>
 </p>
 <img align="right" alt="Elliot Alderson" width="350" src="https://media2.giphy.com/media/WiM5K1e9MtEic/giphy.gif?cid=790b7611017faf1f577ba176c0aecf4628c769c0729bff23&rid=giphy.gif&ct=g">
