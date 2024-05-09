@@ -4,6 +4,13 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1500&background=6DFF2B00&center=true&vCenter=true&width=435&lines=他家好;Welcome+to+my+Profile!;I'm+Tech+enthusiast;Enjoy+to+explore+new+things;Interested+in+web+developer;Follow+me+for+more!" alt="Typing SVG" />
 </a>
 </p>
+
+# Contact Me
+
+- 👨‍💻 **Open for Freelance & Outsourcing Project** build website / API
+- Feel free to contact me: [LinkedIn](https://www.linkedin.com/in/abi-zarah-58048524b/) or email me at **bijhoo.dev@gmail.com**
+
+
 <img align="right" alt="Elliot Alderson" width="350" src="https://media2.giphy.com/media/WiM5K1e9MtEic/giphy.gif?cid=790b7611017faf1f577ba176c0aecf4628c769c0729bff23&rid=giphy.gif&ct=g">
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Profile!;I'm+Tech+enthusiast;Enjoy+to+explore+new+things)](https://git.io/typing-svg) -->
 
