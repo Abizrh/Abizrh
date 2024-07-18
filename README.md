@@ -1,4 +1,4 @@
-## <h1 align="center">Hi there, I'm Abi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+## <h1 align="center">Hi there, I'm abizarah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <p align="center">
 <a href="https://git.io/typing-svg">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1500&background=6DFF2B00&center=true&vCenter=true&width=435&lines=他家好;Welcome+to+my+Profile!;Tech+enthusiast;Enjoy+to+explore+new+things;Interested+in+web+developer;Follow+me+for+more!" alt="Typing SVG" />
