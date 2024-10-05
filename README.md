@@ -7,6 +7,7 @@
 
 # Contact Me
 
+- Currently working around with Neovim plugin ⚡
 - 👨‍💻 **Open for Freelance & Outsourcing Project** build website / API
 - Feel free to contact me: [LinkedIn](https://www.linkedin.com/in/abi-zarah-58048524b/) or email me at **bijhoo.dev@gmail.com**
 
