@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abizrh&repo=Abizrh)](https://github.com/Abizrh/Abizrh) -->
-![Abizrh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abizrh&show_icons=true&theme=tokyonight)
+<!-- ![Abizrh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abizrh&show_icons=true&theme=tokyonight) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abizrh&layout=compact)](https://github.com/Abizrh/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abizrh&layout=compact)](https://github.com/Abizrh/github-readme-stats) -->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abizrh&theme=dark)](https://git.io/streak-stats)
 
 ## 🔧 Technologies and Tools
 
