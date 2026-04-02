@@ -36,4 +36,4 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 ## 🔧 Technologies and Tools
 
-![skills](https://skillicons.dev/icons?i=neovim,nodejs,vue,nuxt,react,svelte,astro,mongodb,mysql,postgresql,nestjs,js,ts,wordpress,sequelize,docker,git,express,html,css,jquery,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=neovim,nodejs,golang,php,lua,vue,nuxt,react,svelte,astro,mongodb,mysql,postgresql,nestjs,js,ts,wordpress,sequelize,docker,git,express,html,css,jquery,vscode&theme=light)
